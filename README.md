@@ -167,7 +167,3 @@ for i in [1,2,3]
   else:
     continue
 ```
-
-# Python Compiler
-
-## Language Features
