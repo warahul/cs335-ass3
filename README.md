@@ -19,32 +19,27 @@ make test=test/test1.py all
 ### Directory Structure
 ______________________________________________________
 * bin:
-	* lexer.py [Python source file to specify language lexemes]
-	* parser.py [Python source file to specify grammar]
-	* yacc.py [Python source file from PLY for parsing ]
+	* lexer.py [lexer]
+	* parser.py [Parser]
+	* yacc.py 
 	* generate.py [Python file to generate rightmost derivation in html ]
 * src:
-	* lexer.py [Python source file to specify language lexemes]
-	* parser.py [Python source file to specify grammar]
-	* yacc.py [Python source file from PLY for parsing ]
+	* lexer.py [lexer]
+	* parser.py [Parser]
+	* yacc.py 
 	* generate.py [Python file to generate rightmost derivation in html ]
 * test:
-	* 'test1'.py [Test files]
-	* 'test2'.py [Test files]
-	* 'test3'.py [Test files]
-	* 'test4'.py [Test files]
-	* 'test5'.py [Test files]
+	* 'test1'.py 
+	* 'test2'.py 
+	* 'test3'.py 
+	* 'test4'.py 
+	* 'test5'.py 
 * makefile
 * README.pdf
 
-A Tutorial on the language features offered by the compiler 
+Language Features
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-
-The compiler supports the basic structures of the Programming languages such as assignment , operators , loops ans function calls.
-
-*Note : Indentation is through tabs or spaces
-
 Assignment 
 ____________________________
 ```
