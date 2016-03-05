@@ -4,7 +4,7 @@ CS335A: Compiler Design (Assignment 3: PARSER)
 * Source Language: *Python3*
 * Target Language: *x86 Assembly*
 * Implementation Language: *Python*
-* Authors: Deepak Kumar, Kamesh Kanwariya, Palash Chauhan and Rahul Kumar Wadbude
+* Authors: Deepak Kumar(13229), Kamesh Kanwariyaa (13336), Palash Chauhan (13455) and Rahul Kumar Wadbude (13533)
 
 * Tool Used : PLY (Python Lex and Yacc)
 
